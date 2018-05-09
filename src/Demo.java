@@ -8,6 +8,7 @@ public class Demo {
 
 
         System.out.println("haha");
+        System.out.println("2222222");
 
     }
 
